@@ -1,3 +1,4 @@
 # Ignore data folder
 data/
 02 - Models/playerstats.csv
+minutes_played/
